@@ -277,5 +277,6 @@ exec_always --no-startup-id feh --bg-fill ~/Pictures/1455653550970.jpg
 exec_always --no-startup-id mpd
 exec_always --no-startup-id conky
 exec_always --no-startup-id setxkbmap -option caps:escape
+exec_always --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 

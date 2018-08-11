@@ -64,3 +64,4 @@ A,etcher,burns isos to usb drives
 ,file-roller,compresses and decompresses files
 A,transmission-sequential-gtk,is a torrent downloader
 ,vocal,manages and plays podcasts
+,polkit-gnome,manages GUI root calls
