@@ -23,7 +23,7 @@ esac done
 
 # DEFAULTS:
 [ -z ${dotfilesrepo+x} ] && dotfilesrepo="https://github.com/AJLond1n/arch-install.git"
-[ -z ${progsfile+x} ] && progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/progs.csv"
+[ -z ${progsfile+x} ] && progsfile="https://raw.githubusercontent.com/AJLond1n/arch-install/master/progs.csv"
 [ -z ${aurhelper+x} ] && aurhelper="aurman"
 
 ###
