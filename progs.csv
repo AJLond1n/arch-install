@@ -56,3 +56,10 @@ A,lightdm-webkit2-greeter,is the greeter that will later be configured
 A,lightdm-webkit2-theme-arch,is the theme for webkit2 (remember to configure)
 ,neofetch,shows the system info in cli
 ,libreoffice-fresh,is the office doc editor
+,gnome-boxes,allows for virtual environments to be run
+A,lastpass,installs lastpass for firefox
+A,etcher,burns isos to usb drives
+,vlc,plays music and video
+,obs-studio,is the OBS recording app
+,file-roller,compresses and decompresses files
+A,transmission-sequential-gtk,is a torrent downloader
