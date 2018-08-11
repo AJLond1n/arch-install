@@ -85,7 +85,7 @@ gitmakeinstall() {
 
 maininstall() { # Installs all needed programs from main repo.
 	dialog --title "LARBS Installation" --infobox "Installing \`$1\` ($n of $total). $1 $2." 5 70
-	pacman --noconfirm --needed -S "$1" &>/dev/null
+	pacman --noconfirm -S "$1" &>/dev/null
 	}
 
 aurinstall() { \
